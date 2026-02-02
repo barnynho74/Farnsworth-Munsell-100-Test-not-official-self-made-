@@ -1,5 +1,7 @@
 Farnsworth-Munsell 100 Hue Test (Unofficial Web Version)
 
+https://barnynho74.github.io/Farnsworth-Munsell-100-Test-not-official-self-made-/
+
 This is an unofficial, self-made web implementation of the Farnsworth–Munsell 100 Hue Test, created for educational, experimental, and personal use.
 
 The original Farnsworth–Munsell 100 Hue Test is a standardized color vision test used to evaluate a person’s ability to distinguish subtle differences in color hue. This project recreates the general concept in a browser-based format.
